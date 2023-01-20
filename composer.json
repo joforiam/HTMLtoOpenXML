@@ -1,7 +1,7 @@
 {
-  "name": "rkorebrits/htmltoopenxml",
+  "name": "joforiam/htmltoopenxml",
   "license": "LGPL-3.0",
-  "description": "Convert HTML to OpenOfficeXML",
+  "description": "Convert HTML to OpenOfficeXML (from Richard Korebrits)",
   "keywords": [
     "OOXML", "HTML"
   ],
